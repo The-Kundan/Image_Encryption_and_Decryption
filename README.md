@@ -6,4 +6,4 @@
 <h3 >Encryted Image</h3>
 <img align="center" alt="img" width="300" height="400" src="ironManEncrypt.jpg">
 
-<h4 >So we have encrypted the image which will not be accessible by anyone. To get Access back to the image we have to choose the image and pass the same passcode we have put before</h3>
+<h4 >So we have encrypted the image which will not be accessible by anyone. To get Access back to the image we have to choose the image and pass the same passcode we have put before</h4>
